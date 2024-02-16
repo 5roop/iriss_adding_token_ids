@@ -23,11 +23,11 @@ def get_present_speakers(exb: ET._Document) -> set[str]:
 
 
 
-def get_words(tei: ET.Element) -> list[dict]:
+def get_words(tei: ET._Element) -> list[dict]: # type: ignore
     timeline = get_timeline(tei)
     all_elements_with_synch = tei.findall(".//{*}*[@synch]")
     all_synchs = [i.get("synch").replace("#", "") for i in all_elements_with_synch]
-    def find_next(synch: str)-> str:
+    def find_next(synch: str)-> str|None:
         if synch == None:
             return None
         synch = synch.replace("#", "")
@@ -43,6 +43,6 @@ def get_words(tei: ET.Element) -> list[dict]:
     
     ...
 
-def get_timeline(tei: ET.Element) -> dict:
+def get_timeline(tei: ET._Element) -> dict: 
     whens = tei.findall(".//{*}when")
     return {when.get(xmlid+"id"): when.get("interval") for when in whens}

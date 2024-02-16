@@ -6,6 +6,11 @@ test_TEI_path = Path("iriss_with_w_and_pauses/Iriss-J-Gvecg-P500001.xml")
 
 annodoc = ET.fromstring(test_anno_path.read_bytes())
 TEI = ET.fromstring(test_TEI_path.read_bytes())
+segs_to_assign_synchs = {w.getparent() for w in TEI.findall(".//{*}w") if "synch" not in w.attrib.keys()}
+
+for seg in segs_to_assign_synchs:
+    for i, w in enumerate(seg.findall(".//{*}w")):
+        w.set("synch", seg.get("synch") + f".w{i}")
 speakers = get_present_speakers(annodoc)
 exbtimeline = {tli.get("id"): tli.get("time") for tli in annodoc.findall(".//tli")}
 new_tier = ET.Element("tier")
@@ -17,7 +22,7 @@ words = get_words(TEI)
 for speaker in speakers:
     tier = annodoc.find(f".//tier[@speaker='{speaker}']")
     for event in tier.findall("event"):
-        TEI_events = [i for i in words if event.get("start") == i.get("start")]
+        TEI_events = [i for i in words if "#"+event.get("start") == i.get("synch")]
         if len(TEI_events) > 0:
             newevent = ET.Element("event", **event.attrib, )
             newevent.text = TEI_events[0].get(xmlid+"id")
@@ -27,5 +32,5 @@ for speaker in speakers:
 
 
 list(annodoc.findall(".//{*}tier"))[-1].getparent().append(new_tier)
-save(annodoc, Path("./brisi.exb.xml"))
+save(annodoc, Path("./test.exb.xml"))
 
