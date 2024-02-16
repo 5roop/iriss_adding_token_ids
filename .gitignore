@@ -1,3 +1,8 @@
+# Input data
+Iriss-disfl-anno-phase1
+iriss_with_w_and_pauses
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
