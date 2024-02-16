@@ -31,9 +31,20 @@ for speaker in speakers:
                 "event",
                 **event.attrib,
             )
-            newevent.text = (
-                TEI_events[0].get(xmlid + "id") + " :" + TEI_events[0].get("text")
+            event_start = event.get("start")
+            event_end = event.get("end")
+            top_tier_event = tier.find(
+                f"event[@start='{event_start}'][@end='{event_end}']"
             )
+            try:
+                first_tier_content = top_tier_event.text.strip()
+            except:
+                first_tier_content = ""
+            if first_tier_content == TEI_events[0].get("text").strip():
+                addendum = ""
+            else:
+                addendum = " !! " + TEI_events[0].get("text").strip()
+            newevent.text = TEI_events[0].get(xmlid + "id") + addendum
             new_tier.append(newevent)
 
 
