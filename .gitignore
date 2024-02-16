@@ -2,6 +2,7 @@
 Iriss-disfl-anno-phase1
 iriss_with_w_and_pauses
 
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
