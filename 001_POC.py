@@ -25,7 +25,7 @@ for speaker in speakers:
         TEI_events = [i for i in words if "#"+event.get("start") == i.get("synch")]
         if len(TEI_events) > 0:
             newevent = ET.Element("event", **event.attrib, )
-            newevent.text = TEI_events[0].get(xmlid+"id")
+            newevent.text = TEI_events[0].get(xmlid+"id") + " :" + TEI_events[0].get("text")
             new_tier.append(
                 newevent
             )
