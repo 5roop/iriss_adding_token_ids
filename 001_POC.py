@@ -8,12 +8,15 @@ test_TEI_path = Path("iriss_with_w_and_pauses/Iriss-J-Gvecg-P500001.xml")
 annodoc = ET.fromstring(test_anno_path.read_bytes())
 TEI = ET.fromstring(test_TEI_path.read_bytes())
 segs_to_assign_synchs = {
-    w.getparent() for w in TEI.findall(".//{*}w") if "synch" not in w.attrib.keys()
+    w.getparent() for w in TEI.findall(".//{*}w") if ("synch" not in w.attrib.keys()) and (w.getparent().tag == "seg") 
 }
 
 for seg in segs_to_assign_synchs:
     for i, w in enumerate(seg.findall(".//{*}w")):
-        w.set("synch", seg.get("synch") + f".w{i}")
+        seg_synch = seg.get("synch")
+        if not seg_synch:
+            raise Exception(f"Seg does not have synch! Seg attrib: {seg.attrib} file {input.TEI}")
+        w.set("synch", seg.get("synch", "!!") + f".w{i}")
 speakers = get_present_speakers(annodoc)
 exbtimeline = {tli.get("id"): tli.get("time") for tli in annodoc.findall(".//tli")}
 new_tier = ET.Element("tier")
