@@ -2439,6 +2439,22 @@
 			<event start="Artur-P-G7036-P701111.t4.w11" end="Artur-P-G7036-P701111.t4.w12">Artur-P-G7036-P701111.tok70</event>
 			<event start="Artur-P-G7036-P701111.t4.w12" end="Artur-P-G7036-P701111.t4.w13">Artur-P-G7036-P701111.tok72</event>
 			<event start="Artur-P-G7036-P701111.t4.w13" end="Artur-P-G7036-P701111.t5">Artur-P-G7036-P701111.tok73</event>
+			<event start="Artur-P-G7036-P701111.t5.w0" end="Artur-P-G7036-P701111.t5.w1">Artur-P-G7036-P701111.tok75</event>
+			<event start="Artur-P-G7036-P701111.t5.w1" end="Artur-P-G7036-P701111.t5.w2">Artur-P-G7036-P701111.tok76</event>
+			<event start="Artur-P-G7036-P701111.t5.w2" end="Artur-P-G7036-P701111.t5.w3">Artur-P-G7036-P701111.tok77</event>
+			<event start="Artur-P-G7036-P701111.t5.w3" end="Artur-P-G7036-P701111.t5.w4">Artur-P-G7036-P701111.tok78</event>
+			<event start="Artur-P-G7036-P701111.t5.w4" end="Artur-P-G7036-P701111.t5.w5">Artur-P-G7036-P701111.tok79</event>
+			<event start="Artur-P-G7036-P701111.t5.w5" end="Artur-P-G7036-P701111.t5.w6">Artur-P-G7036-P701111.tok80</event>
+			<event start="Artur-P-G7036-P701111.t5.w6" end="Artur-P-G7036-P701111.t5.w7">Artur-P-G7036-P701111.tok81</event>
+			<event start="Artur-P-G7036-P701111.t5.w7" end="Artur-P-G7036-P701111.t5.w8">Artur-P-G7036-P701111.tok82</event>
+			<event start="Artur-P-G7036-P701111.t5.w8" end="Artur-P-G7036-P701111.t5.w9">Artur-P-G7036-P701111.tok83</event>
+			<event start="Artur-P-G7036-P701111.t5.w9" end="Artur-P-G7036-P701111.t5.w10">Artur-P-G7036-P701111.tok84</event>
+			<event start="Artur-P-G7036-P701111.t5.w10" end="Artur-P-G7036-P701111.t5.w11">Artur-P-G7036-P701111.tok86</event>
+			<event start="Artur-P-G7036-P701111.t5.w11" end="Artur-P-G7036-P701111.t5.w12">Artur-P-G7036-P701111.tok87</event>
+			<event start="Artur-P-G7036-P701111.t5.w12" end="Artur-P-G7036-P701111.t5.w13">Artur-P-G7036-P701111.tok88</event>
+			<event start="Artur-P-G7036-P701111.t5.w13" end="Artur-P-G7036-P701111.t5.w14">Artur-P-G7036-P701111.tok89</event>
+			<event start="Artur-P-G7036-P701111.t5.w14" end="Artur-P-G7036-P701111.t5.w15">Artur-P-G7036-P701111.tok90</event>
+			<event start="Artur-P-G7036-P701111.t5.w15" end="Artur-P-G7036-P701111.t7">Artur-P-G7036-P701111.tok91</event>
 			<event start="Artur-P-G7036-P701111.t7.w0" end="Artur-P-G7036-P701111.t7.w1">Artur-P-G7036-P701111.tok93</event>
 			<event start="Artur-P-G7036-P701111.t7.w1" end="Artur-P-G7036-P701111.t8">Artur-P-G7036-P701111.tok94</event>
 			<event start="Artur-P-G7036-P701111.t8.w0" end="Artur-P-G7036-P701111.t9">Artur-P-G7036-P701111.tok95</event>
@@ -3032,6 +3048,43 @@
 			<event start="Artur-P-G7036-P701111.t117.w6" end="Artur-P-G7036-P701111.t117.w7">Artur-P-G7036-P701111.tok807</event>
 			<event start="Artur-P-G7036-P701111.t117.w7" end="Artur-P-G7036-P701111.t117.w8">Artur-P-G7036-P701111.tok808</event>
 			<event start="Artur-P-G7036-P701111.t117.w8" end="Artur-P-G7036-P701111.t118">Artur-P-G7036-P701111.tok809</event>
+			<event start="Artur-P-G7036-P701111.t119.w0" end="Artur-P-G7036-P701111.t119.w1">Artur-P-G7036-P701111.tok811</event>
+			<event start="Artur-P-G7036-P701111.t119.w1" end="Artur-P-G7036-P701111.t119.w2">Artur-P-G7036-P701111.tok813</event>
+			<event start="Artur-P-G7036-P701111.t119.w2" end="Artur-P-G7036-P701111.t119.w3">Artur-P-G7036-P701111.tok814</event>
+			<event start="Artur-P-G7036-P701111.t119.w3" end="Artur-P-G7036-P701111.t119.w4">Artur-P-G7036-P701111.tok815</event>
+			<event start="Artur-P-G7036-P701111.t119.w4" end="Artur-P-G7036-P701111.t119.w5">Artur-P-G7036-P701111.tok816</event>
+			<event start="Artur-P-G7036-P701111.t119.w5" end="Artur-P-G7036-P701111.t119.w6">Artur-P-G7036-P701111.tok817</event>
+			<event start="Artur-P-G7036-P701111.t119.w6" end="Artur-P-G7036-P701111.t119.w7">Artur-P-G7036-P701111.tok818</event>
+			<event start="Artur-P-G7036-P701111.t119.w7" end="Artur-P-G7036-P701111.t119.w8">Artur-P-G7036-P701111.tok819</event>
+			<event start="Artur-P-G7036-P701111.t119.w8" end="Artur-P-G7036-P701111.t119.w9">Artur-P-G7036-P701111.tok820</event>
+			<event start="Artur-P-G7036-P701111.t119.w9" end="Artur-P-G7036-P701111.t119.w10">Artur-P-G7036-P701111.tok821</event>
+			<event start="Artur-P-G7036-P701111.t119.w10" end="Artur-P-G7036-P701111.t119.w11">Artur-P-G7036-P701111.tok822</event>
+			<event start="Artur-P-G7036-P701111.t119.w11" end="Artur-P-G7036-P701111.t119.w12">Artur-P-G7036-P701111.tok824</event>
+			<event start="Artur-P-G7036-P701111.t119.w12" end="Artur-P-G7036-P701111.t119.w13">Artur-P-G7036-P701111.tok825</event>
+			<event start="Artur-P-G7036-P701111.t119.w13" end="Artur-P-G7036-P701111.t119.w14">Artur-P-G7036-P701111.tok826</event>
+			<event start="Artur-P-G7036-P701111.t119.w14" end="Artur-P-G7036-P701111.t119.w15">Artur-P-G7036-P701111.tok827</event>
+			<event start="Artur-P-G7036-P701111.t119.w15" end="Artur-P-G7036-P701111.t119.w16">Artur-P-G7036-P701111.tok828</event>
+			<event start="Artur-P-G7036-P701111.t119.w16" end="Artur-P-G7036-P701111.t119.w17">Artur-P-G7036-P701111.tok830</event>
+			<event start="Artur-P-G7036-P701111.t119.w17" end="Artur-P-G7036-P701111.t119.w18">Artur-P-G7036-P701111.tok831</event>
+			<event start="Artur-P-G7036-P701111.t119.w18" end="Artur-P-G7036-P701111.t119.w19">Artur-P-G7036-P701111.tok833</event>
+			<event start="Artur-P-G7036-P701111.t119.w19" end="Artur-P-G7036-P701111.t119.w20">Artur-P-G7036-P701111.tok835</event>
+			<event start="Artur-P-G7036-P701111.t119.w20" end="Artur-P-G7036-P701111.t119.w21">Artur-P-G7036-P701111.tok836</event>
+			<event start="Artur-P-G7036-P701111.t119.w21" end="Artur-P-G7036-P701111.t119.w22">Artur-P-G7036-P701111.tok837</event>
+			<event start="Artur-P-G7036-P701111.t119.w22" end="Artur-P-G7036-P701111.t119.w23">Artur-P-G7036-P701111.tok839</event>
+			<event start="Artur-P-G7036-P701111.t119.w23" end="Artur-P-G7036-P701111.t119.w24">Artur-P-G7036-P701111.tok840</event>
+			<event start="Artur-P-G7036-P701111.t119.w24" end="Artur-P-G7036-P701111.t119.w25">Artur-P-G7036-P701111.tok842</event>
+			<event start="Artur-P-G7036-P701111.t119.w25" end="Artur-P-G7036-P701111.t119.w26">Artur-P-G7036-P701111.tok843</event>
+			<event start="Artur-P-G7036-P701111.t119.w26" end="Artur-P-G7036-P701111.t119.w27">Artur-P-G7036-P701111.tok844</event>
+			<event start="Artur-P-G7036-P701111.t119.w27" end="Artur-P-G7036-P701111.t119.w28">Artur-P-G7036-P701111.tok845</event>
+			<event start="Artur-P-G7036-P701111.t119.w28" end="Artur-P-G7036-P701111.t119.w29">Artur-P-G7036-P701111.tok846</event>
+			<event start="Artur-P-G7036-P701111.t119.w29" end="Artur-P-G7036-P701111.t119.w30">Artur-P-G7036-P701111.tok847</event>
+			<event start="Artur-P-G7036-P701111.t119.w30" end="Artur-P-G7036-P701111.t119.w31">Artur-P-G7036-P701111.tok848</event>
+			<event start="Artur-P-G7036-P701111.t119.w31" end="Artur-P-G7036-P701111.t119.w32">Artur-P-G7036-P701111.tok849</event>
+			<event start="Artur-P-G7036-P701111.t119.w32" end="Artur-P-G7036-P701111.t119.w33">Artur-P-G7036-P701111.tok850</event>
+			<event start="Artur-P-G7036-P701111.t119.w33" end="Artur-P-G7036-P701111.t119.w34">Artur-P-G7036-P701111.tok851</event>
+			<event start="Artur-P-G7036-P701111.t119.w34" end="Artur-P-G7036-P701111.t119.w35">Artur-P-G7036-P701111.tok852</event>
+			<event start="Artur-P-G7036-P701111.t119.w35" end="Artur-P-G7036-P701111.t119.w36">Artur-P-G7036-P701111.tok853</event>
+			<event start="Artur-P-G7036-P701111.t119.w36" end="Artur-P-G7036-P701111.t121">Artur-P-G7036-P701111.tok854</event>
 			<event start="Artur-P-G7036-P701111.t121.w0" end="Artur-P-G7036-P701111.t121.w1">Artur-P-G7036-P701111.tok856</event>
 			<event start="Artur-P-G7036-P701111.t121.w1" end="Artur-P-G7036-P701111.t121.w2">Artur-P-G7036-P701111.tok857</event>
 			<event start="Artur-P-G7036-P701111.t121.w2" end="Artur-P-G7036-P701111.t121.w3">Artur-P-G7036-P701111.tok858</event>

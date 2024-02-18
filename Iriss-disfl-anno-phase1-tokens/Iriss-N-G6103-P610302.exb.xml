@@ -2637,6 +2637,20 @@
 			<event start="Artur-N-G6103-P610302.t2.w16" end="Artur-N-G6103-P610302.t2.w17">Artur-N-G6103-P610302.tok49</event>
 			<event start="Artur-N-G6103-P610302.t2.w17" end="Artur-N-G6103-P610302.t2.w18">Artur-N-G6103-P610302.tok50</event>
 			<event start="Artur-N-G6103-P610302.t2.w18" end="Artur-N-G6103-P610302.t3">Artur-N-G6103-P610302.tok51</event>
+			<event start="Artur-N-G6103-P610302.t4.w0" end="Artur-N-G6103-P610302.t4.w1">Artur-N-G6103-P610302.tok53</event>
+			<event start="Artur-N-G6103-P610302.t4.w1" end="Artur-N-G6103-P610302.t4.w2">Artur-N-G6103-P610302.tok55</event>
+			<event start="Artur-N-G6103-P610302.t4.w2" end="Artur-N-G6103-P610302.t4.w3">Artur-N-G6103-P610302.tok56</event>
+			<event start="Artur-N-G6103-P610302.t4.w3" end="Artur-N-G6103-P610302.t4.w4">Artur-N-G6103-P610302.tok57</event>
+			<event start="Artur-N-G6103-P610302.t4.w4" end="Artur-N-G6103-P610302.t4.w5">Artur-N-G6103-P610302.tok58</event>
+			<event start="Artur-N-G6103-P610302.t4.w5" end="Artur-N-G6103-P610302.t4.w6">Artur-N-G6103-P610302.tok59</event>
+			<event start="Artur-N-G6103-P610302.t4.w6" end="Artur-N-G6103-P610302.t4.w7">Artur-N-G6103-P610302.tok61</event>
+			<event start="Artur-N-G6103-P610302.t4.w7" end="Artur-N-G6103-P610302.t4.w8">Artur-N-G6103-P610302.tok62</event>
+			<event start="Artur-N-G6103-P610302.t4.w8" end="Artur-N-G6103-P610302.t4.w9">Artur-N-G6103-P610302.tok63</event>
+			<event start="Artur-N-G6103-P610302.t4.w9" end="Artur-N-G6103-P610302.t4.w10">Artur-N-G6103-P610302.tok64</event>
+			<event start="Artur-N-G6103-P610302.t4.w10" end="Artur-N-G6103-P610302.t4.w11">Artur-N-G6103-P610302.tok65</event>
+			<event start="Artur-N-G6103-P610302.t4.w11" end="Artur-N-G6103-P610302.t4.w12">Artur-N-G6103-P610302.tok66</event>
+			<event start="Artur-N-G6103-P610302.t4.w12" end="Artur-N-G6103-P610302.t4.w13">Artur-N-G6103-P610302.tok67</event>
+			<event start="Artur-N-G6103-P610302.t4.w13" end="Artur-N-G6103-P610302.t5">Artur-N-G6103-P610302.tok68</event>
 			<event start="Artur-N-G6103-P610302.t5.w0" end="Artur-N-G6103-P610302.t5.w1">Artur-N-G6103-P610302.tok69</event>
 			<event start="Artur-N-G6103-P610302.t5.w1" end="Artur-N-G6103-P610302.t5.w2">Artur-N-G6103-P610302.tok71</event>
 			<event start="Artur-N-G6103-P610302.t5.w2" end="Artur-N-G6103-P610302.t5.w3">Artur-N-G6103-P610302.tok73</event>
@@ -2709,6 +2723,22 @@
 			<event start="Artur-N-G6103-P610302.t19.w2" end="Artur-N-G6103-P610302.t19.w3">Artur-N-G6103-P610302.tok162</event>
 			<event start="Artur-N-G6103-P610302.t19.w3" end="Artur-N-G6103-P610302.t19.w4">Artur-N-G6103-P610302.tok163</event>
 			<event start="Artur-N-G6103-P610302.t19.w4" end="Artur-N-G6103-P610302.t20">Artur-N-G6103-P610302.tok164</event>
+			<event start="Artur-N-G6103-P610302.t20.w0" end="Artur-N-G6103-P610302.t20.w1">Artur-N-G6103-P610302.tok166</event>
+			<event start="Artur-N-G6103-P610302.t20.w1" end="Artur-N-G6103-P610302.t20.w2">Artur-N-G6103-P610302.tok167</event>
+			<event start="Artur-N-G6103-P610302.t20.w2" end="Artur-N-G6103-P610302.t20.w3">Artur-N-G6103-P610302.tok168</event>
+			<event start="Artur-N-G6103-P610302.t20.w3" end="Artur-N-G6103-P610302.t20.w4">Artur-N-G6103-P610302.tok169</event>
+			<event start="Artur-N-G6103-P610302.t20.w4" end="Artur-N-G6103-P610302.t20.w5">Artur-N-G6103-P610302.tok170</event>
+			<event start="Artur-N-G6103-P610302.t20.w5" end="Artur-N-G6103-P610302.t20.w6">Artur-N-G6103-P610302.tok171</event>
+			<event start="Artur-N-G6103-P610302.t20.w6" end="Artur-N-G6103-P610302.t20.w7">Artur-N-G6103-P610302.tok172</event>
+			<event start="Artur-N-G6103-P610302.t20.w7" end="Artur-N-G6103-P610302.t20.w8">Artur-N-G6103-P610302.tok173</event>
+			<event start="Artur-N-G6103-P610302.t20.w8" end="Artur-N-G6103-P610302.t20.w9">Artur-N-G6103-P610302.tok174</event>
+			<event start="Artur-N-G6103-P610302.t20.w9" end="Artur-N-G6103-P610302.t20.w10">Artur-N-G6103-P610302.tok175</event>
+			<event start="Artur-N-G6103-P610302.t20.w10" end="Artur-N-G6103-P610302.t20.w11">Artur-N-G6103-P610302.tok176</event>
+			<event start="Artur-N-G6103-P610302.t20.w11" end="Artur-N-G6103-P610302.t20.w12">Artur-N-G6103-P610302.tok177</event>
+			<event start="Artur-N-G6103-P610302.t20.w12" end="Artur-N-G6103-P610302.t20.w13">Artur-N-G6103-P610302.tok178</event>
+			<event start="Artur-N-G6103-P610302.t20.w13" end="Artur-N-G6103-P610302.t20.w14">Artur-N-G6103-P610302.tok179</event>
+			<event start="Artur-N-G6103-P610302.t20.w14" end="Artur-N-G6103-P610302.t20.w15">Artur-N-G6103-P610302.tok180</event>
+			<event start="Artur-N-G6103-P610302.t20.w15" end="Artur-N-G6103-P610302.t21">Artur-N-G6103-P610302.tok181</event>
 			<event start="Artur-N-G6103-P610302.t21.w0" end="Artur-N-G6103-P610302.t21.w1">Artur-N-G6103-P610302.tok182</event>
 			<event start="Artur-N-G6103-P610302.t21.w1" end="Artur-N-G6103-P610302.t21.w2">Artur-N-G6103-P610302.tok183</event>
 			<event start="Artur-N-G6103-P610302.t21.w2" end="Artur-N-G6103-P610302.t21.w3">Artur-N-G6103-P610302.tok184</event>

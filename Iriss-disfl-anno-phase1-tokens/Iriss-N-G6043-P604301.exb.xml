@@ -2858,6 +2858,11 @@
 			<event start="Artur-N-G6043-P604301.t54.w1" end="Artur-N-G6043-P604301.t54.w2">Artur-N-G6043-P604301.tok447</event>
 			<event start="Artur-N-G6043-P604301.t54.w2" end="Artur-N-G6043-P604301.t54.w3">Artur-N-G6043-P604301.tok449</event>
 			<event start="Artur-N-G6043-P604301.t54.w3" end="Artur-N-G6043-P604301.t55">Artur-N-G6043-P604301.tok451</event>
+			<event start="Artur-N-G6043-P604301.t56.w0" end="Artur-N-G6043-P604301.t56.w1">Artur-N-G6043-P604301.tok453</event>
+			<event start="Artur-N-G6043-P604301.t56.w1" end="Artur-N-G6043-P604301.t57">Artur-N-G6043-P604301.tok454</event>
+			<event start="Artur-N-G6043-P604301.t56.w2" end="Artur-N-G6043-P604301.t56.w3">Artur-N-G6043-P604301.tok456</event>
+			<event start="Artur-N-G6043-P604301.t56.w3" end="Artur-N-G6043-P604301.t56.w4">Artur-N-G6043-P604301.tok457</event>
+			<event start="Artur-N-G6043-P604301.t56.w4" end="Artur-N-G6043-P604301.t58">Artur-N-G6043-P604301.tok458</event>
 			<event start="Artur-N-G6043-P604301.t58.w0" end="Artur-N-G6043-P604301.t58.w1">Artur-N-G6043-P604301.tok460</event>
 			<event start="Artur-N-G6043-P604301.t58.w1" end="Artur-N-G6043-P604301.t58.w2">Artur-N-G6043-P604301.tok462</event>
 			<event start="Artur-N-G6043-P604301.t58.w2" end="Artur-N-G6043-P604301.t58.w3">Artur-N-G6043-P604301.tok463</event>
@@ -2894,6 +2899,22 @@
 			<event start="Artur-N-G6043-P604301.t60.w5" end="Artur-N-G6043-P604301.t60.w6">Artur-N-G6043-P604301.tok504</event>
 			<event start="Artur-N-G6043-P604301.t60.w6" end="Artur-N-G6043-P604301.t60.w7">Artur-N-G6043-P604301.tok506</event>
 			<event start="Artur-N-G6043-P604301.t60.w7" end="Artur-N-G6043-P604301.t61">Artur-N-G6043-P604301.tok508</event>
+			<event start="Artur-N-G6043-P604301.t61.w0" end="Artur-N-G6043-P604301.t61.w1">Artur-N-G6043-P604301.tok509</event>
+			<event start="Artur-N-G6043-P604301.t61.w1" end="Artur-N-G6043-P604301.t61.w2">Artur-N-G6043-P604301.tok510</event>
+			<event start="Artur-N-G6043-P604301.t61.w2" end="Artur-N-G6043-P604301.t61.w3">Artur-N-G6043-P604301.tok511</event>
+			<event start="Artur-N-G6043-P604301.t61.w3" end="Artur-N-G6043-P604301.t61.w4">Artur-N-G6043-P604301.tok512</event>
+			<event start="Artur-N-G6043-P604301.t61.w4" end="Artur-N-G6043-P604301.t61.w5">Artur-N-G6043-P604301.tok513</event>
+			<event start="Artur-N-G6043-P604301.t61.w5" end="Artur-N-G6043-P604301.t61.w6">Artur-N-G6043-P604301.tok514</event>
+			<event start="Artur-N-G6043-P604301.t61.w6" end="Artur-N-G6043-P604301.t61.w7">Artur-N-G6043-P604301.tok515</event>
+			<event start="Artur-N-G6043-P604301.t61.w7" end="Artur-N-G6043-P604301.t61.w8">Artur-N-G6043-P604301.tok516</event>
+			<event start="Artur-N-G6043-P604301.t61.w8" end="Artur-N-G6043-P604301.t61.w9">Artur-N-G6043-P604301.tok518</event>
+			<event start="Artur-N-G6043-P604301.t61.w9" end="Artur-N-G6043-P604301.t61.w10">Artur-N-G6043-P604301.tok519</event>
+			<event start="Artur-N-G6043-P604301.t61.w10" end="Artur-N-G6043-P604301.t61.w11">Artur-N-G6043-P604301.tok520</event>
+			<event start="Artur-N-G6043-P604301.t61.w11" end="Artur-N-G6043-P604301.t61.w12">Artur-N-G6043-P604301.tok521</event>
+			<event start="Artur-N-G6043-P604301.t61.w12" end="Artur-N-G6043-P604301.t61.w13">Artur-N-G6043-P604301.tok522</event>
+			<event start="Artur-N-G6043-P604301.t61.w13" end="Artur-N-G6043-P604301.t61.w14">Artur-N-G6043-P604301.tok523</event>
+			<event start="Artur-N-G6043-P604301.t61.w14" end="Artur-N-G6043-P604301.t61.w15">Artur-N-G6043-P604301.tok525</event>
+			<event start="Artur-N-G6043-P604301.t61.w15" end="Artur-N-G6043-P604301.t62">Artur-N-G6043-P604301.tok526</event>
 			<event start="Artur-N-G6043-P604301.t62.w0" end="Artur-N-G6043-P604301.t62.w1">Artur-N-G6043-P604301.tok528</event>
 			<event start="Artur-N-G6043-P604301.t62.w1" end="Artur-N-G6043-P604301.t62.w2">Artur-N-G6043-P604301.tok529</event>
 			<event start="Artur-N-G6043-P604301.t62.w2" end="Artur-N-G6043-P604301.t63">Artur-N-G6043-P604301.tok531</event>

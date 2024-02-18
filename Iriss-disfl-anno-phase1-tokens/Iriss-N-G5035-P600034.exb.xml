@@ -1941,6 +1941,14 @@
 			<event start="Artur-N-G5035-P600034.t16.w9" end="Artur-N-G5035-P600034.t16.w10">Artur-N-G5035-P600034.tok143</event>
 			<event start="Artur-N-G5035-P600034.t16.w10" end="Artur-N-G5035-P600034.t16.w11">Artur-N-G5035-P600034.tok144</event>
 			<event start="Artur-N-G5035-P600034.t16.w11" end="Artur-N-G5035-P600034.t17">Artur-N-G5035-P600034.tok146</event>
+			<event start="Artur-N-G5035-P600034.t17.w0" end="Artur-N-G5035-P600034.t17.w1">Artur-N-G5035-P600034.tok148</event>
+			<event start="Artur-N-G5035-P600034.t17.w1" end="Artur-N-G5035-P600034.t17.w2">Artur-N-G5035-P600034.tok149</event>
+			<event start="Artur-N-G5035-P600034.t17.w2" end="Artur-N-G5035-P600034.t17.w3">Artur-N-G5035-P600034.tok150</event>
+			<event start="Artur-N-G5035-P600034.t17.w3" end="Artur-N-G5035-P600034.t17.w4">Artur-N-G5035-P600034.tok151</event>
+			<event start="Artur-N-G5035-P600034.t17.w4" end="Artur-N-G5035-P600034.t17.w5">Artur-N-G5035-P600034.tok152</event>
+			<event start="Artur-N-G5035-P600034.t17.w5" end="Artur-N-G5035-P600034.t17.w6">Artur-N-G5035-P600034.tok154</event>
+			<event start="Artur-N-G5035-P600034.t17.w6" end="Artur-N-G5035-P600034.t17.w7">Artur-N-G5035-P600034.tok155</event>
+			<event start="Artur-N-G5035-P600034.t17.w7" end="Artur-N-G5035-P600034.t18">Artur-N-G5035-P600034.tok156</event>
 			<event start="Artur-N-G5035-P600034.t18.w0" end="Artur-N-G5035-P600034.t18.w1">Artur-N-G5035-P600034.tok158</event>
 			<event start="Artur-N-G5035-P600034.t18.w1" end="Artur-N-G5035-P600034.t18.w2">Artur-N-G5035-P600034.tok159</event>
 			<event start="Artur-N-G5035-P600034.t18.w2" end="Artur-N-G5035-P600034.t18.w3">Artur-N-G5035-P600034.tok160</event>
@@ -1997,6 +2005,20 @@
 			<event start="Artur-N-G5035-P600034.t30.w3" end="Artur-N-G5035-P600034.t30.w4">Artur-N-G5035-P600034.tok225</event>
 			<event start="Artur-N-G5035-P600034.t30.w4" end="Artur-N-G5035-P600034.t30.w5">Artur-N-G5035-P600034.tok226</event>
 			<event start="Artur-N-G5035-P600034.t30.w5" end="Artur-N-G5035-P600034.t31">Artur-N-G5035-P600034.tok227</event>
+			<event start="Artur-N-G5035-P600034.t31.w0" end="Artur-N-G5035-P600034.t31.w1">Artur-N-G5035-P600034.tok228</event>
+			<event start="Artur-N-G5035-P600034.t31.w1" end="Artur-N-G5035-P600034.t31.w2">Artur-N-G5035-P600034.tok229</event>
+			<event start="Artur-N-G5035-P600034.t31.w2" end="Artur-N-G5035-P600034.t31.w3">Artur-N-G5035-P600034.tok230</event>
+			<event start="Artur-N-G5035-P600034.t31.w3" end="Artur-N-G5035-P600034.t31.w4">Artur-N-G5035-P600034.tok231</event>
+			<event start="Artur-N-G5035-P600034.t31.w4" end="Artur-N-G5035-P600034.t31.w5">Artur-N-G5035-P600034.tok232</event>
+			<event start="Artur-N-G5035-P600034.t31.w5" end="Artur-N-G5035-P600034.t31.w6">Artur-N-G5035-P600034.tok233</event>
+			<event start="Artur-N-G5035-P600034.t31.w6" end="Artur-N-G5035-P600034.t31.w7">Artur-N-G5035-P600034.tok234</event>
+			<event start="Artur-N-G5035-P600034.t31.w7" end="Artur-N-G5035-P600034.t31.w8">Artur-N-G5035-P600034.tok235</event>
+			<event start="Artur-N-G5035-P600034.t31.w8" end="Artur-N-G5035-P600034.t31.w9">Artur-N-G5035-P600034.tok237</event>
+			<event start="Artur-N-G5035-P600034.t31.w9" end="Artur-N-G5035-P600034.t31.w10">Artur-N-G5035-P600034.tok238</event>
+			<event start="Artur-N-G5035-P600034.t31.w10" end="Artur-N-G5035-P600034.t31.w11">Artur-N-G5035-P600034.tok239</event>
+			<event start="Artur-N-G5035-P600034.t31.w11" end="Artur-N-G5035-P600034.t31.w12">Artur-N-G5035-P600034.tok240</event>
+			<event start="Artur-N-G5035-P600034.t31.w12" end="Artur-N-G5035-P600034.t31.w13">Artur-N-G5035-P600034.tok241</event>
+			<event start="Artur-N-G5035-P600034.t31.w13" end="Artur-N-G5035-P600034.t32">Artur-N-G5035-P600034.tok242</event>
 			<event start="Artur-N-G5035-P600034.t32.w0" end="Artur-N-G5035-P600034.t32.w1">Artur-N-G5035-P600034.tok243</event>
 			<event start="Artur-N-G5035-P600034.t32.w1" end="Artur-N-G5035-P600034.t32.w2">Artur-N-G5035-P600034.tok244</event>
 			<event start="Artur-N-G5035-P600034.t32.w2" end="Artur-N-G5035-P600034.t32.w3">Artur-N-G5035-P600034.tok246</event>

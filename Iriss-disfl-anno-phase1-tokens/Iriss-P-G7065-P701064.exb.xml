@@ -2728,6 +2728,7 @@
 			<event start="Artur-P-G7065-P701064.t66.w0" end="Artur-P-G7065-P701064.t66.w1">Artur-P-G7065-P701064.tok307</event>
 			<event start="Artur-P-G7065-P701064.t66.w1" end="Artur-P-G7065-P701064.t66.w2">Artur-P-G7065-P701064.tok308</event>
 			<event start="Artur-P-G7065-P701064.t66.w2" end="Artur-P-G7065-P701064.t67">Artur-P-G7065-P701064.tok309</event>
+			<event start="Artur-P-G7065-P701064.t67.w0" end="Artur-P-G7065-P701064.t68">Artur-P-G7065-P701064.tok310</event>
 			<event start="Artur-P-G7065-P701064.t68.w0" end="Artur-P-G7065-P701064.t68.w1">Artur-P-G7065-P701064.tok312</event>
 			<event start="Artur-P-G7065-P701064.t68.w1" end="Artur-P-G7065-P701064.t68.w2">Artur-P-G7065-P701064.tok313</event>
 			<event start="Artur-P-G7065-P701064.t68.w2" end="Artur-P-G7065-P701064.t69">Artur-P-G7065-P701064.tok314</event>
@@ -3113,6 +3114,11 @@
 			<event start="Artur-P-G7065-P701064.t168.w1" end="Artur-P-G7065-P701064.t168.w2">Artur-P-G7065-P701064.tok756</event>
 			<event start="Artur-P-G7065-P701064.t168.w2" end="Artur-P-G7065-P701064.t168.w3">Artur-P-G7065-P701064.tok757</event>
 			<event start="Artur-P-G7065-P701064.t168.w3" end="Artur-P-G7065-P701064.t169">Artur-P-G7065-P701064.tok758</event>
+			<event start="Artur-P-G7065-P701064.t169.w0" end="Artur-P-G7065-P701064.t169.w1">Artur-P-G7065-P701064.tok759</event>
+			<event start="Artur-P-G7065-P701064.t169.w1" end="Artur-P-G7065-P701064.t169.w2">Artur-P-G7065-P701064.tok760</event>
+			<event start="Artur-P-G7065-P701064.t169.w2" end="Artur-P-G7065-P701064.t169.w3">Artur-P-G7065-P701064.tok761</event>
+			<event start="Artur-P-G7065-P701064.t169.w3" end="Artur-P-G7065-P701064.t169.w4">Artur-P-G7065-P701064.tok762</event>
+			<event start="Artur-P-G7065-P701064.t169.w4" end="Artur-P-G7065-P701064.t170">Artur-P-G7065-P701064.tok763</event>
 			<event start="Artur-P-G7065-P701064.t170.w0" end="Artur-P-G7065-P701064.t170.w1">Artur-P-G7065-P701064.tok765</event>
 			<event start="Artur-P-G7065-P701064.t170.w1" end="Artur-P-G7065-P701064.t170.w2">Artur-P-G7065-P701064.tok766</event>
 			<event start="Artur-P-G7065-P701064.t170.w2" end="Artur-P-G7065-P701064.t171">Artur-P-G7065-P701064.tok767</event>
