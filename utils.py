@@ -51,8 +51,6 @@ def get_words(tei: ET._Element) -> list[dict]:  # type: ignore
         for w in all_words
     ]
 
-    ...
-
 
 def get_timeline(tei: ET._Element) -> dict:
     whens = tei.findall(".//{*}when")
